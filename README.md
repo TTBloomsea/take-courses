@@ -1,5 +1,5 @@
 # take-courses
-配合Microsoft自带的Power Automate(以下简述PAD)自动刷课过题(edge浏览器 知到网页端)，适合电脑空闲时间快速刷网课
+知到智慧树刷网课，配合Microsoft自带的Power Automate(以下简述PAD)自动刷网课过题(edge浏览器 知到智慧树网页端)，适合电脑空闲时间快速刷网课
 
 <img width="415" height="329" alt="image" src="https://github.com/user-attachments/assets/4bf1810d-c71a-4a83-be10-433393175438" />
 
